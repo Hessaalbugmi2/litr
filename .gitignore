@@ -1,0 +1,18 @@
+# Reports / output
+out/
+reports/
+litr_*.json
+litr_*.html
+*.log
+!sample_auth.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

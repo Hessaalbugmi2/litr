@@ -1,0 +1,2 @@
+# LITR uses the Python standard library only — no external dependencies.
+# Requires: Python 3.6+
