@@ -101,10 +101,8 @@ Running against the included sample data flags a full compromise chain:
 The generated HTML report is a clean, self-contained file ready to attach to a ticket:
 
 <p align="center">
-  <img src="C:\Users\hessa\OneDrive\Documents\Hacker (1)_6\Desktop\files (1)\report-screenshot.png" alt="LITR HTML report showing a detected SSH brute-force compromise" width="820">
+  <img src="docs/report-screenshot.png" alt="LITR HTML report showing a detected SSH brute-force compromise" width="820">
 </p>
-
----
 
 ## 🗂️ Repository Structure
 
